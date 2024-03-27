@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.t{
+    background-color:  #a0e4e0;
+    height: 100vh;
+    width: 100%;
+    padding-top: 5rem;
+}
+.tsk{
+    width: 20rem;
+    background-color: #3baea0;
+    margin-left: 35rem;
+}
+.tsk h1{
+    padding-left: 5rem;
+    color:  #b2dffb;
+}
+.tsk1{
+    padding-left: 3rem;
+}
+.tsk2{
+    padding-left: 2.5rem;
+}
+.state{
+    color: #6d42c7;
+}
